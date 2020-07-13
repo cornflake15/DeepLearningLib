@@ -58,12 +58,14 @@
 | **Transformer** (from Google/CMU) | <a href="https://arxiv.org/abs/1706.03762">Paper</a> | <a href="https://github.com/tensorflow/models/tree/master/official/nlp/transformer">Code</a> | <a href="https://github.com/tensorflow/models/tree/master/official/nlp/transformer">Tensorflow</a> | Transformers |
 | **Transformer-XL** (from Google) | <a href="https://arxiv.org/abs/1901.02860">Paper</a> | <a href="">Code</a> | <a href="https://huggingface.co/transformers/model_doc/transformerxl.html">Hugging Face</a> | Transformers |
 | **XLNet** (from Google/CMU) | <a href="https://arxiv.org/abs/1906.08237">Paper</a> | <a href="https://github.com/tensorflow/models/blob/master/official/nlp/xlnet">Code</a> | <a href="https://github.com/tensorflow/models/blob/master/official/nlp/xlnet">TensorFlow</a>, <a href="https://huggingface.co/transformers/model_doc/xlnet.html">Hugging Face</a> | NLU |
-| **XLM** (from Facebook) | <a href="https://arxiv.org/abs/1810.04805">Paper</a>  | <a href="">Code</a> | <a href="">TensorFlow</a>, <a href="">Hugging Face</a> |  |
-| **RoBERTa** (from Facebook) | <a href="https://arxiv.org/abs/1810.04805">Paper</a>  | <a href="">Code</a> | <a href="">TensorFlow</a>, <a href="">Hugging Face</a> | Transformer |
-| **DistilBERT** (from HuggingFace) | <a href="https://arxiv.org/abs/1810.04805">Paper</a>  | <a href="">Code</a> | <a href="">Hugging Face</a> |  |
-| **CTRL** (from SalesForce) | <a href="https://arxiv.org/abs/1810.04805">Paper</a>  | <a href="">Code</a> | <a href="">TensorFlow</a>, <a href="">Hugging Face</a> | Transformers |
-| **CamemBERT** (from Inria/Facebook/Sorbonne) | <a href="https://arxiv.org/abs/1810.04805">Paper</a>  | <a href="">Code</a> | <a href="">TensorFlow</a>, <a href="">Hugging Face</a> |  |
-No finished yet
+| **XLM** (from Facebook) | <a href="https://arxiv.org/abs/1907.11692">Paper</a>  | <a href="">Code</a> | <a href="https://github.com/facebookresearch/XLM">Pytorch</a>, <a href="https://huggingface.co/transformers/model_doc/xlm.html">Hugging Face</a> |  |
+| **RoBERTa** (from Facebook) | <a href="https://arxiv.org/abs/1907.11692">Paper</a>  | <a href="https://github.com/pytorch/fairseq/tree/master/examples/roberta">Code</a> | <a href="https://pytorch.org/hub/pytorch_fairseq_roberta/">Pytorch</a>, <a href="https://huggingface.co/transformers/model_doc/roberta.html">Hugging Face</a> | Transformers |
+| **DistilBERT** (from HuggingFace) | <a href="https://arxiv.org/abs/1910.01108">Paper</a> | <a href="https://github.com/salesforce/ctrl">Code</a> | <a href="">Hugging Face</a> | Transformers |
+| **CTRL** (from SalesForce) | <a href="">Paper</a>  | <a href="">Code</a> | <a href="https://huggingface.co/transformers/model_doc/ctrl.html">Hugging Face</a> | Transformers |
+| **CamemBERT** (from Inria/Facebook/Sorbonne) | <a href="https://arxiv.org/abs/1911.03894">Paper</a> | <a href="">Code</a> | <a href="https://huggingface.co/transformers/model_doc/camembert.html">Hugging Face</a> | Transformers |
+| **To be continued**  | <a href="">Paper</a> | <a href="">Code</a> | <a href=""> N/A </a> | N/A |
+
+
 
 
 ---
